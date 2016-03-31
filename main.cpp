@@ -48,7 +48,7 @@ int contarMayusculas(stack<char> a,queue<char> b)
 
 //Devuelve la cantidad de llaves repetidas en "mi_multimapa"
 //Nota: No devuelve la cantidad de repeticines
-int contarLLavesRepetidas(multimap<string,string>mi_multim\apa)
+int contarLLavesRepetidas(multimap<string,string>mi_multimapa)
 {
     return -1;
 }
